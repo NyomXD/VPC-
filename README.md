@@ -1,6 +1,6 @@
 # Ex 4 Deployment and configuration of a Private Cloud in AWS
-## NAME: SHIVRAJ R 
-## REG NO: 212223110051
+## NAME: Sandeep V
+## REG NO: 212223040179
 
 ## Aim:
 To set up of a Private Cloud in AWS.
